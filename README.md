@@ -180,7 +180,7 @@ this.SceneConstructor.init = () => {
 
 ## Git Workflow
 
-- List of usefull [git commands](https://github.com/designthingy/Git-Commands)
+- List of useful [git commands](https://github.com/designthingy/Git-Commands)
 
 - Git Flow as a Reliable Version Control Model
 
